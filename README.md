@@ -30,8 +30,8 @@ Repository: python-challenge-1
 
 ## Summary of findings
 
-*These are the top 5 clients by number of orders.
-*Each customer has a unique Client ID.
-*The top 5 clients are sorted by Total Profit in a descending order. For example, client_id 24741 generated $36.58 million in total profits during the year 2023.
-*It is no surprise that this same client also generated the most quantity ordered, shipping price and revenues.
-*The results for the four other customers are more similar, measured by the four criterias.
+* These are the top 5 clients by number of orders.
+* Each customer has a unique Client ID.
+* The top 5 clients are sorted by Total Profit in a descending order. For example, client_id 24741 generated $36.58 million in total profits during the year 2023.
+* It is no surprise that this same client also generated the most quantity ordered, shipping price and revenues.
+* The results for the four other customers are more similar, measured by the four criterias.
