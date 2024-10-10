@@ -14,20 +14,6 @@ Repository: python-challenge-1
 * Transformation. Create new column with calculations.
 * Analysis.
 
-## Coding overview
-
-* Dictionary: menu is a dict of dict.
-* Dictionary: menu_items creates a dictionary to store the menu for
-              later retrieval.
-* Dictionary: selected_item
-* List: customer_order is a  list of dict
-* Variables: long list including place_order (bool), i (int), and
-            menu_category (str)
-
-## Coding notes
-
-* Includes: while True, for loops, if else, and match: case
-
 ## Summary of findings
 
 * These are the top 5 clients by number of orders.
